@@ -1,0 +1,610 @@
+{
+    "type": "template",
+    "altText": "สถานะการส่งของ",
+    "template": {
+        "type": "carousel",
+        "columns": [
+            {
+                "type": "bubble",
+                "size": "giga",
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "ED852942182TH",
+                            "decoration": "none",
+                            "size": "xl",
+                            "weight": "bold"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "19/07/2562 18:12:26+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "รับฝาก",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "คต.กาดสวนแก้ว",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "00131",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "20/07/2562 15:12:15+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "อยู่ระหว่างการขนส่ง",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "คต.กาดสวนแก้ว",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "00131",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "20/07/2562 17:44:55+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ถึงที่ทำการไปรษณีย์",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ศป.ลำพูน",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "51010",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "20/07/2562 19:34:02+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "อยู่ระหว่างการขนส่ง",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ศป.ลำพูน",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "51010",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "21/07/2562 05:16:13+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ถึงที่ทำการไปรษณีย์",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ศป.นครสวรรค์",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "60010",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "21/07/2562 10:16:12+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ถึงที่ทำการไปรษณีย์",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ศป.อยุธยา",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "13010",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "22/07/2562 02:27:46+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "อยู่ระหว่างการขนส่ง",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "ศป.อยุธยา",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "13010",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "22/07/2562 11:09:07+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "อยู่ระหว่างการนำจ่าย",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "หันคา",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "17130",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#EEEEEE",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "22/07/2562 11:59:59+07:00"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "นำจ่ายสำเร็จ",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "horizontal",
+                                                    "contents": [
+                                                        {
+                                                            "type": "spacer",
+                                                            "size": "xxl"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "หันคา",
+                                                            "size": "sm"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "17130",
+                                                            "size": "sm"
+                                                        }
+                                                    ],
+                                                    "spacing": "none",
+                                                    "margin": "md"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "backgroundColor": "#ABEBC6",
+                                    "cornerRadius": "md",
+                                    "paddingAll": "10px"
+                                }
+                            ],
+                            "spacing": "sm",
+                            "margin": "md"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
